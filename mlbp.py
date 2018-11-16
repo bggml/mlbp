@@ -99,9 +99,3 @@ for i in xrange(0,mm[1]):
 time.sleep(1)
 print  len(sa)
 bcwj()                     #保存网站地址
-
-# threa('http://bgg8.ml')
-# print type(len(threading.enumerate())),"kkkkkkkkkkkkkkkkk"
-
-# time.sleep(3)
-# print len(threading.enumerate()),"kkkkkkkkkkkkkkkkk"
